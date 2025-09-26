@@ -1,10 +1,31 @@
-# Online Transaction Processor for a Donut & Coffee Business!
-Current contributors:
-popefransheesh
-miguelskiee
-makitaodes
-Niyonnn
-zzakeli
+# Kofei / Kofai
+## Our client's donut & coffee system for the business and customers!
+
+## Story
+This system was made with pure passion and dedication for our dearest client, where we manage to enhance our skill, and also contribute to their businesses for free.
+Our Professor assigned as to help business owners build and manage their businesses with the skills that we had on our program.
+
+The system's prototype was proposed on our client after consulting them about the business that they have which is the 'Kofai'.
+The system involves 2 kinds of people, the admin, and the customer.
+
+Admin's role:
+<li>Inventory tracking</li>
+<li>Managing customer order transactions</li>
+<li>System maintenance</li>
+
+Customer's role:
+<li>Order online</li>
+<li>Pay cashless through online using Gcash</li>
+<li>Manage ordered products</li>
+
+
+
+### Current contributors:
+#### <li>popefransheesh</li>
+#### <li>miguelskiee</li>
+#### <li>makitaodes</li>
+#### <li>Niyonnn</li>
+#### <li>zzakeli (me)</li>
 
 Hello, Peeps!
 
