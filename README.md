@@ -1,11 +1,11 @@
 # Kofei / Kofai
 ## Our client's donut & coffee system for the business and customers!
 
-## Story
+## The Story
 This system was made with pure passion and dedication for our dearest client, where we manage to enhance our skill, and also contribute to their businesses for free.
 Our Professor assigned as to help business owners build and manage their businesses with the skills that we had on our program.
 
-The system's prototype was proposed on our client after consulting them about the business that they have which is the 'Kofai'.
+The system's prototype was proposed on our client after consulting them about the business that they have which is the Kofai.
 The system involves 2 kinds of people, the admin, and the customer.
 
 Admin's role:
@@ -32,17 +32,24 @@ Customer's role:
 
      ```bash
      cd Kofei
+  3. Start the PHP server.
 
-### Current contributors:
-#### <li>popefransheesh</li>
-#### <li>miguelskiee</li>
-#### <li>makitaodes</li>
-#### <li>Niyonnn</li>
-#### <li>zzakeli (me)</li>
+     ```bash
+     php -S localhost:3000
+  4. View the development on the browser.
 
-Hello, Peeps!
+     ```bash
+     http://localhost:3000/site/php/index/body.php
 
-This project is open source and open to contributions!  
-If you're interested in improving it, feel free to fork, clone, and send a pull request.
-Happy coding!
+## Contributors:
+<ul>
+  <li>popefransheesh</li>
+  <li>miguelskiee</li>
+  <li>makitaodes</li>
+  <li>Niyonnn</li>
+  <li>jc14-ai (me)</li>
+</ul>
+
+## Found a bug?
+Kindly report it on our gmail kofai@gmail.com
 
