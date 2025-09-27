@@ -9,16 +9,29 @@ The system's prototype was proposed on our client after consulting them about th
 The system involves 2 kinds of people, the admin, and the customer.
 
 Admin's role:
-<li>Inventory tracking</li>
-<li>Managing customer order transactions</li>
-<li>System maintenance</li>
+<ul>
+  <li>Inventory tracking</li>
+  <li>Managing customer order transactions</li>
+  <li>System maintenance</li>
+</ul>
 
 Customer's role:
-<li>Order online</li>
-<li>Pay cashless through online using Gcash</li>
-<li>Manage ordered products</li>
+<ul>
+  <li>Order online</li>
+  <li>Pay cashless through online using Gcash</li>
+  <li>Manage ordered products</li>
+</ul>
 
+## Installation Development
 
+  1. Clone repository.
+
+     ```bash
+     git clone https://github.com/jc14-ai/Kofei.git
+  2. Navigate directory.
+
+     ```bash
+     cd Kofei
 
 ### Current contributors:
 #### <li>popefransheesh</li>
