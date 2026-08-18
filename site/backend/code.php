@@ -13,7 +13,7 @@ require __DIR__ . '/../../vendor/autoload.php';
 
 function send_email_verification($username, $email, $verify_token)
 {
-    $mail = new PHPmailer(true);
+    $mail = new PHPMailer(true);
     //Server settings
     // $mail->SMTPDebug = SMTP::DEBUG_SERVER;                      //Enable verbose debug output
     $mail->isSMTP();                                            //Send using SMTP
